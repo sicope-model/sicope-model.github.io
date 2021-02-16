@@ -4,9 +4,16 @@
         <title>SICOPE Model Blog</title>
         <link>https://sicope-model.github.io/blog</link>
         <description>SICOPE Model Blog</description>
-        <lastBuildDate>Thu, 11 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[v1.1.0]]></title>
+            <link>https://sicope-model.github.io/blog/v1.1.0</link>
+            <guid>v1.1.0</guid>
+            <pubDate>Tue, 16 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Change logs:]]></description>
+        </item>
         <item>
             <title><![CDATA[v1.0.0]]></title>
             <link>https://sicope-model.github.io/blog/v1.0.0</link>
